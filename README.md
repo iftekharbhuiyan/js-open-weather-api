@@ -1,2 +1,2 @@
-# open-weather-api
-Reading Open Weather Data Using API.
+# Open Weather API
+Reading Open Weather Data Using JavaScript with Ajax Request.
